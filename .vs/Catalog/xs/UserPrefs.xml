@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E65E72EC-3D6D-494E-B33B-6D9781BDA999}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/Item.cs">
+    <Files>
+      <File FileName="Entities/Item.cs" Line="16" Column="1" />
+      <File FileName="Repositories/InMemItemsRepository.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ItemsController.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Catalog" expanded="True">
+            <Node name="Catalog" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True">
+                <Node name="Item.cs" selected="True" />
+              </Node>
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Catalog PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
