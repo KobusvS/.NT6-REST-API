@@ -1,6 +1,6 @@
 # REST-API--training
-# To familliarize with the C# language while getting practical excersize on building and understanding REST API. 
-# C# used with .NET 5
+To familiarize myself with the C# language while getting practical exersize on building and understanding REST API. 
+C# used with .NET 5
 
 
 
