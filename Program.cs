@@ -9,7 +9,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(options => 
+{
+    options.SuppressAsyncSuffixInActionNames = false;
+});
 builder.Services.AddSingleton<IItemsRepository, MongoDbItemsRepository>();
 builder.Services.AddSingleton<IMongoClient>(serviceProvider => 
 {
