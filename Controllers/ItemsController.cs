@@ -14,7 +14,7 @@ namespace Catalog.Controllers
     public class ItemsController : ControllerBase
     {
         private readonly IItemsRepository repository;
-
+ 
         public ItemsController(IItemsRepository repository)
         {
             this.repository = repository;
