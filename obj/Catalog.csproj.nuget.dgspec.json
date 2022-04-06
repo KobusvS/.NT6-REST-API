@@ -38,6 +38,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AspNetCore.healthChecks.MongoDb": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
             "MongoDB.driver": {
               "target": "Package",
               "version": "[2.15.0, )"
